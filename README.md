@@ -5,6 +5,11 @@
 	
 </div>
 
+<div align=center>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://epitoneproject.github.io/)](https://epitoneproject.github.io/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tkdtn800/)](https://www.facebook.com/tkdtn800/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:epitoneplus@gmail.com)](mailto:epitoneplus@gmail.com)
+</div>
 # 박상수 / epitone 👋
 
 [기술 블로그](https://epitoneproject.github.io/) 를 운영하고 있습니다.  
@@ -17,13 +22,6 @@
 - [제주코딩베이스캠프 Code Festival: JavaScript 100제](https://www.inflearn.com/course/%EC%A0%9C%EC%A3%BC%EC%BD%94%EB%94%A9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-100%EC%A0%9C#)를 통해 JS 기반 알고리즘을 공부하며, 공부 내용을 블로그에 정리할 것입니다.
 
 ## 📫 그외 연락처 
-<div align=center>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://epitoneproject.github.io/)](https://epitoneproject.github.io/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tkdtn800/)](https://www.facebook.com/tkdtn800/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:epitoneplus@gmail.com)](mailto:epitoneplus@gmail.com)
-</div>
-
 - 블로그 : [https://epitoneproject.github.io/](https://epitoneproject.github.io/)
 - 페이스북 : [https://www.facebook.com/tkdtn800/](https://www.facebook.com/tkdtn800/)
 - 인스타그램 : [https://www.instagram.com/junse2i/](https://www.instagram.com/junse2i/)
