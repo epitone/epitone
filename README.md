@@ -18,7 +18,7 @@
 
 [기술 블로그](https://epitoneproject.github.io/) 를 운영하고 있습니다.  
 기획자, 마케터의 꿈을 꾸다 개발자의 길을 걷고 있습니다.  
-이것 저것 개발하는 것을 좋아합니다. 필름카메라로 사진 찍는 것을 즐깁니다.
+필름카메라로 사진 찍는 것을 즐깁니다.
 
 ## 🚀 현재 공부하는 것
 - [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304) 와 [모두를 위한 컴퓨터 과학 CS50 2019](https://www.edwith.org/boostcourse-cs-050)을 바탕으로 기초 CS 공부를 진행 중입니다.
