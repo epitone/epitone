@@ -14,7 +14,7 @@
 
 </div>
 
-# 박상수 / epitone 👋
+# 🧑‍💻 박상수 / epitone 
 
 [기술 블로그](https://epitoneproject.github.io/) 를 운영하고 있습니다.  
 기획자, 마케터의 꿈을 꾸다 개발자의 길을 걷고 있습니다. 필름카메라로 사진 찍는 것을 즐깁니다.
