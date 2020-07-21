@@ -5,6 +5,13 @@
 
 </div>
 
+
+<div align=center>
+  
+![epitone's github stats](https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true)
+
+</div>
+
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://epitoneproject.github.io/)](https://epitoneproject.github.io/) 
@@ -31,11 +38,7 @@
 
 
 
-<div align=center>
-  
-![epitone's github stats](https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true)
 
-</div>
 
 
 # 🧑‍💻 박상수 / epitone 
