@@ -31,6 +31,10 @@
 
 
 
+<div align=center>
+![epitone's github stats](https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true)
+</div>
+
 
 # 🧑‍💻 박상수 / epitone 
 
@@ -46,8 +50,6 @@
 - 블로그 : [https://epitoneproject.github.io/](https://epitoneproject.github.io/)
 - 페이스북 : [https://www.facebook.com/tkdtn800/](https://www.facebook.com/tkdtn800/)
 - 인스타그램 : [https://www.instagram.com/junse2i/](https://www.instagram.com/junse2i/)
-
-![epitone's github stats](https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true)
 
 
 <!--
