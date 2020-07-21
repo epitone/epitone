@@ -12,7 +12,18 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/junse2i/)](https://www.instagram.com/junse2i/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:epitoneplus@gmail.com)](mailto:epitoneplus@gmail.com)
 
+<div align=center>
+**Languages and Tools**  
 </div>
+
+</div>
+<div align=center>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+</div>
+
 
 # 🧑‍💻 박상수 / epitone 
 
@@ -28,6 +39,9 @@
 - 블로그 : [https://epitoneproject.github.io/](https://epitoneproject.github.io/)
 - 페이스북 : [https://www.facebook.com/tkdtn800/](https://www.facebook.com/tkdtn800/)
 - 인스타그램 : [https://www.instagram.com/junse2i/](https://www.instagram.com/junse2i/)
+
+![epitone's github stats](https://github-readme-stats.vercel.app/api?username=epitone&show_icons=true&hide_border=true)
+
 
 <!--
 **epitoneproject/epitoneproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
