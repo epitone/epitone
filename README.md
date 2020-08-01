@@ -19,6 +19,12 @@
 
 </div>
 
+<div align=center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 
 <div align=center>
@@ -49,11 +55,6 @@
 
 </div>
 
-<div align=center>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
 # 🧑‍💻 박상수 / epitone 
