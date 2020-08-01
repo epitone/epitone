@@ -28,11 +28,6 @@
 </div>
 
 
-<div align=center>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <div align=center>
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288770-3421aa80-cd2f-11ea-9972-ab7e1ac2b89d.png"></code>
@@ -54,6 +49,11 @@
 
 </div>
 
+<div align=center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 # 🧑‍💻 박상수 / epitone 
