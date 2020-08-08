@@ -44,7 +44,6 @@
 
 
 ![epitone's github stats](https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
