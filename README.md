@@ -15,6 +15,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://epitoneproject.github.io/)](https://epitoneproject.github.io/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tkdtn800/)](https://www.facebook.com/tkdtn800/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/junse2i/)](https://www.instagram.com/junse2i/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/epitone/)](https://www.linkedin.com/in/epitone/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:epitoneplus@gmail.com)](mailto:epitoneplus@gmail.com)
 
 </div>
@@ -64,6 +65,7 @@
 - 블로그 : [https://epitoneproject.github.io/](https://epitoneproject.github.io/)
 - 페이스북 : [https://www.facebook.com/tkdtn800/](https://www.facebook.com/tkdtn800/)
 - 인스타그램 : [https://www.instagram.com/junse2i/](https://www.instagram.com/junse2i/)
+- 링크드인 : [https://www.linkedin.com/in/epitone/](https://www.linkedin.com/in/epitone/)
 
 
 <!--
