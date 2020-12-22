@@ -65,6 +65,7 @@
 - 페이스북 : [https://www.facebook.com/tkdtn800/](https://www.facebook.com/tkdtn800/)
 - 인스타그램 : [https://www.instagram.com/junse2i/](https://www.instagram.com/junse2i/)
 - 링크드인 : [https://www.linkedin.com/in/epitone/](https://www.linkedin.com/in/epitone/)
+- 포트폴리오 : [https://bit.ly/3lzYUJ8](https://bit.ly/3lzYUJ8)
 
 
 <!--
