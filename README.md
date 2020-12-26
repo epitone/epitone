@@ -55,7 +55,8 @@
 
 [기술 블로그](https://overcome-the-limits.tistory.com/) 를 운영하고 있습니다.  
 기획자, 마케터의 꿈을 꾸다 개발자의 길을 걷고 있습니다. 필름카메라로 사진 찍는 것을 즐깁니다.  
-대학생 연합 IT벤처 창업 동아리 [SOPT](http://sopt.org/wp/)에서 서버파트원으로 활동하고 있습니다.
+[SOPT](http://sopt.org/wp/)대학생 연합 IT벤처 창업 동아리에서 서버파트원으로 활동하고 있습니다.
+
 
 ## 🚀 현재 공부하는 것
 - [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/epitoneproject/33-js-concepts) 을 공부하면서, 블로그에 공부 내용을 정리하려고 노력중입니다.
