@@ -53,12 +53,18 @@
 
 # 🧑‍💻 박상수 / epitone 
 
-[기술 블로그](https://overcome-the-limits.tistory.com/) 를 운영하고 있습니다.  
-[SOPT](http://sopt.org/wp/) 대학생 연합 IT벤처 창업 동아리에서 서버파트원으로 활동하고 있으며, 27기 서버파트 MVP로 선정됐습니다.
+#### Profile
+- 2020: 27th SOPT, Server Development
+- 2021: 27th SOPT Server MVP
 
-기획자, 마케터의 꿈을 꾸다 개발자의 길을 걷고 있습니다. 필름카메라로 사진 찍는 것을 즐깁니다.  
+#### Developer
 
+- Server Developer - 더나은 미라클모닝 경험 제공 서비스 meaning (ing)
 
+#### Wanna Be
+
+- 기획자, 마케터의 꿈을 꾸다 개발자의 길을 걷고 있습니다. 
+- 기획과 개발을 함께 할 수 있는 개발자가 되고 싶습니다. 
 
 ## 🚀 현재 공부하는 것
 - [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/epitoneproject/33-js-concepts) 을 공부하면서, 블로그에 공부 내용을 정리하려고 노력중입니다.
