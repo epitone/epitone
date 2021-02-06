@@ -54,7 +54,7 @@
 # 🧑‍💻 박상수 / epitone 
 
 ### Profile
-- 2020: 27th SOPT, Server Development
+- 2020: 27th SOPT Server Development
 - 2021: 27th SOPT Server MVP
 
 ### Developer
