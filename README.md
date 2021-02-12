@@ -55,6 +55,7 @@
 
 ### Profile
 - 2020: 27th SOPT Server Development
+- 2021: 27th SOPT APPJAM 대상
 - 2021: 27th SOPT Server MVP
 
 ### Developer
