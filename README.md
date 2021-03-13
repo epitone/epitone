@@ -71,8 +71,6 @@
 - 기획자, 마케터의 꿈을 꾸다 개발자의 길을 걷고 있습니다. 
 - 기획과 개발을 함께 할 수 있는 개발자가 되고 싶습니다. 
 
-<br>
-
 ## 🚀 현재 공부하는 것
 - [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/epitoneproject/33-js-concepts) 을 공부하면서, 블로그에 공부 내용을 정리하려고 노력중입니다.
 - [제주코딩베이스캠프 Code Festival: JavaScript 100제](https://www.inflearn.com/course/%EC%A0%9C%EC%A3%BC%EC%BD%94%EB%94%A9-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-100%EC%A0%9C#)를 통해 JS 기반 알고리즘을 공부하며, 공부 내용을 블로그에 정리할 것입니다.
