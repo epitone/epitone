@@ -53,13 +53,12 @@
 
 <div align=center>
   
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800)
+
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800/)
 
-<!--   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800)
- -->
-  
 </div>
 
 
