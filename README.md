@@ -71,7 +71,7 @@
 </br>
 
 
-<img width="1200" alt="banner" src="https://user-images.githubusercontent.com/59385491/132081784-384833a6-a7ef-4bbf-95d0-8127552de3db.png">
+<img width="1400" alt="banner" src="https://user-images.githubusercontent.com/59385491/132081784-384833a6-a7ef-4bbf-95d0-8127552de3db.png">
 
 
 
