@@ -1,7 +1,8 @@
-
+  
 
 
 <div align=center>
+
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fepitoneproject)](https://hits.seeyoufarm.com)
 
@@ -58,6 +59,7 @@
 
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800/)
+  
 
 </div>
 
@@ -68,7 +70,10 @@
 
 </br>
 
-# 🧑‍💻 박상수 / epitone 
+# 🧑‍💻 박상수 / epitone  
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ### Profile
 - 2020: 27th SOPT Server Development
