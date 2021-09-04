@@ -74,6 +74,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+<p>
 
 ### Profile
 - 2020: 27th SOPT Server Development
@@ -81,10 +82,14 @@
 - 2021: 27th SOPT Server MVP
 - 2021: 28th SOPT Server Development
 
-### Developer
+<p>
 
-- Server Developer - 더나은 미라클모닝 경험 제공 서비스 'meaning'
-- Server Developer - 스마트한 대학생활 관리 플랫폼 '포켓유니브'
+### BackEnd Developer
+
+- 더나은 미라클모닝 경험 제공 서비스 'meaning'
+- 스마트한 대학생활 관리 플랫폼 '포켓유니브'
+
+<p>
 
 ### Wanna Be
 
