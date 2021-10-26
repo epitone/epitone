@@ -52,6 +52,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/240/000000/amazon-web-services.png"></code>
 
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 
@@ -69,8 +70,7 @@
 
 <div align=center>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800/) -->
   
 </div>
   
@@ -86,7 +86,7 @@
 
 # 🧑‍💻 박상수 / epitone  
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="510" height="410" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="410" />
 
 <p>
 
