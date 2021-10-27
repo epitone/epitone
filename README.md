@@ -6,8 +6,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fepitoneproject)](https://hits.seeyoufarm.com)
 
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800)
 
 </div>
 
@@ -52,7 +50,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/240/000000/amazon-web-services.png"></code>
 
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 
@@ -60,19 +57,19 @@
 </br>
 
 <div align=center>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800)
   
-![epitone's github stats](https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800/)
 
   
-  
+<img src="https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true" align="center" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact" align="center" style="width: 40%" /> 
+ 
 
 </div>
 
-<div align=center>
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800/) -->
-  
-</div>
   
 </br>
 </br>
