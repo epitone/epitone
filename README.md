@@ -64,8 +64,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800/)
 
   
-<img src="https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true" align="center" style="width: 50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact" align="center" style="width: 40%" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true" align="center" style="width: 55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact" align="center" style="width: 45%" /> 
  
 
 </div>
