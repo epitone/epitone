@@ -89,16 +89,13 @@
 
 </br>
 
-# 🧑‍💻 박상수 / const
+<div align=center>
 
-</br>
+<img height="500" width="500" src="https://user-images.githubusercontent.com/59385491/143792825-2c6c2f0b-684b-4498-ab91-f2492da067a3.png">
+
+</div>
 
 <!-- <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="410" /> -->
-
- <img align="left" height="330" width="330" src="https://user-images.githubusercontent.com/59385491/143792825-2c6c2f0b-684b-4498-ab91-f2492da067a3.png">
-
-</br>
-
 
 ### 비즈니스 드리븐을 지향하는 개발자 박상수(const) 입니다.
 
