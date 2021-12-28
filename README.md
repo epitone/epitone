@@ -67,11 +67,15 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800/)
 
   
+  
+  
 <img src="https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true" align="center" style="width: 53%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact" align="center" style="width: 42%" /> 
  
 
 </div>
+
+
 
   
 </br>
@@ -89,13 +93,11 @@
 
 </br>
 
-<div align=center>
-
-<img height="500" width="500" src="https://user-images.githubusercontent.com/59385491/143792825-2c6c2f0b-684b-4498-ab91-f2492da067a3.png">
-
-</div>
 
 <!-- <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="410" /> -->
+
+
+<img align="left" height="330" width="330" src="https://user-images.githubusercontent.com/59385491/143792825-2c6c2f0b-684b-4498-ab91-f2492da067a3.png">
 
 ### 비즈니스 드리븐을 지향하는 개발자 박상수(const) 입니다.
 
@@ -108,11 +110,9 @@
 무던히 포기하지 않고 견디고 견뎠던 그 시간들이 변함없는 단 하나의 해답임을 믿습니다.
 
 </br>
-
-</br>
 </br>
 
-## 📫 그외 연락처 
+## 📫 저를 더 알고 싶으시다면
 - 포트폴리오 : [https://www.constpark.com/](https://www.constpark.com/)
 - 블로그 : [https://overcome-the-limits.tistory.com/](https://overcome-the-limits.tistory.com/)
 - 링크드인 : [https://www.linkedin.com/in/epitone/](https://www.linkedin.com/in/epitone/)
