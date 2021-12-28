@@ -15,6 +15,7 @@
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://epitoneproject.github.io/)](https://overcome-the-limits.tistory.com/) 
+<a href="http://www.constpark.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/epitone/)](https://www.linkedin.com/in/epitone/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tkdtn800/)](https://www.facebook.com/tkdtn800/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/junse2i/)](https://www.instagram.com/junse2i/)
@@ -107,17 +108,13 @@
 백사장에 글을 쓰면 파도 한 번 치면 끝이지만, 돌에 글을 새기면 백 년을 간다는 말처럼, 공부한 내용을 잊지 않고 기억하기 위해 
 [블로그](https://overcome-the-limits.tistory.com/)에 개발자가 되기 위해 노력하는 과정을 정리하고, 공부한 내용을 꾸준히 작성하고 있습니다. 
 
-무던히 포기하지 않고 견디고 견뎠던 그 시간들이 변함없는 단 하나의 해답임을 믿습니다.
+무던히 포기하지 않고 견디고 견뎠던 그 시간들이 변함없는 단 하나의 해답임을 믿습니다. 치열하게 도전했던, 시간의 흔적을 [포트폴리오](https://www.constpark.com/)에 담았습니다.
+
 
 </br>
 </br>
 
-## 📫 저를 더 알고 싶으시다면
-- 포트폴리오 : [https://www.constpark.com/](https://www.constpark.com/)
-- 블로그 : [https://overcome-the-limits.tistory.com/](https://overcome-the-limits.tistory.com/)
-- 링크드인 : [https://www.linkedin.com/in/epitone/](https://www.linkedin.com/in/epitone/)
-- 페이스북 : [https://www.facebook.com/tkdtn800/](https://www.facebook.com/tkdtn800/)
-- 인스타그램 : [https://www.instagram.com/junse2i/](https://www.instagram.com/junse2i/)
+<!-- ## 📫 저를 더 알고 싶으시다면 -->
 
 <!--
 **epitoneproject/epitoneproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
