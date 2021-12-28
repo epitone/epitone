@@ -89,38 +89,38 @@
 
 </br>
 
-# 🧑‍💻 박상수 / epitone  
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="410" />
-
-<p>
-
-### Profile
-- 2020: 27th SOPT Server Development
-- 2021: 27th SOPT APPJAM 대상
-- 2021: 27th SOPT Server MVP
-- 2021: 28th SOPT Server Development
-
-
-### BackEnd Developer
-
-- 더나은 미라클모닝 경험 제공 서비스 'meaning'
-- 스마트한 대학생활 관리 플랫폼 '포켓유니브'
-
-
-### Wanna Be
-
-- 기획하고 개발하는 일을 좋아합니다. 
-- 기획과 개발을 함께 할 수 있는 사람이 되고 싶습니다. 
+# 🧑‍💻 박상수 / const
 
 </br>
 
+<!-- <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="410" /> -->
+
+ <img align="left" height="450" width="450" src="https://user-images.githubusercontent.com/59385491/143792825-2c6c2f0b-684b-4498-ab91-f2492da067a3.png">
+
+</br>
+
+
+### 비즈니스 드리븐을 지향하는 개발자 박상수(const) 입니다.
+
+기획자의 삶을 꿈꾸다, 만들고 싶은 것이 있다면 언제든 원하는 것을 만들 수 있는 개발자의 삶에 매력을 느껴 개발 공부를 시작했습니다. 기획자로서 했던 비즈니스 드리븐한 사고방식이 개발자로서의 삶을 살아가는데 시너지 효과를 낼 수 있다고 믿습니다. 앞으로 비즈니스 드리븐한 사고방식을 개발에 접목시켜 서비스를 성장시킬 수 있는 백엔드 개발자가 되고 싶습니다. 
+
+
+백사장에 글을 쓰면 파도 한 번 치면 끝이지만, 돌에 글을 새기면 백 년을 간다는 말처럼, 공부한 내용을 잊지 않고 기억하기 위해 
+[블로그](https://overcome-the-limits.tistory.com/)에 개발자가 되기 위해 노력하는 과정을 정리하고, 공부한 내용을 꾸준히 작성하고 있습니다. 
+
+무던히 포기하지 않고 견디고 견뎠던 그 시간들이 변함없는 단 하나의 해답임을 믿습니다.
+
+</br>
+
+</br>
+</br>
+
 ## 📫 그외 연락처 
+- 포트폴리오 : [https://www.constpark.com/](https://www.constpark.com/)
 - 블로그 : [https://overcome-the-limits.tistory.com/](https://overcome-the-limits.tistory.com/)
+- 링크드인 : [https://www.linkedin.com/in/epitone/](https://www.linkedin.com/in/epitone/)
 - 페이스북 : [https://www.facebook.com/tkdtn800/](https://www.facebook.com/tkdtn800/)
 - 인스타그램 : [https://www.instagram.com/junse2i/](https://www.instagram.com/junse2i/)
-- 링크드인 : [https://www.linkedin.com/in/epitone/](https://www.linkedin.com/in/epitone/)
-- 포트폴리오 : [https://www.constpark.com/](https://www.constpark.com/)
 
 <!--
 **epitoneproject/epitoneproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
