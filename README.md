@@ -14,7 +14,7 @@
 
 <div align=center>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://epitoneproject.github.io/)](https://overcome-the-limits.tistory.com/) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://overcome-the-limits.tistory.com/)](https://overcome-the-limits.tistory.com/) 
 <a href="http://www.constpark.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/epitone/)](https://www.linkedin.com/in/epitone/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tkdtn800/)](https://www.facebook.com/tkdtn800/) 
@@ -70,8 +70,8 @@
   
   
   
-<img src="https://github-readme-stats.vercel.app/api?username=epitoneproject&show_icons=true&hide_border=true" align="center" style="width: 53%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epitoneproject&layout=compact" align="center" style="width: 42%" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=epitone&show_icons=true&hide_border=true" align="center" style="width: 53%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epitone&layout=compact" align="center" style="width: 42%" /> 
  
 
 </div>
