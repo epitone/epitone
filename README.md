@@ -86,7 +86,7 @@
   
 | 인사이트 | 회고 |
 |:-----:|:-----:| 
-|[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits&postId=534&description=그냥%20하지%20말라)](https://overcome-the-limits.tistory.com/534?category=921779)| [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits&postId=191&description=2022년%20상반기%20회고)](https://overcome-the-limits.tistory.com/346)
+|[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits&postId=534&description=그냥%20하지%20말라)](https://overcome-the-limits.tistory.com/534?category=921779)| [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits&postId=346&description=2022년%20상반기%20회고)](https://overcome-the-limits.tistory.com/346)
 
 
 <!-- |[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits)](https://overcome-the-limits.tistory.com/)| [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits&postId=191&description=2021년%20하반기%20회고)](https://overcome-the-limits.tistory.com/191)
