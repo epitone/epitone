@@ -42,7 +42,6 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/31975706/122644444-213a7480-d150-11eb-921d-a5d238f7c6b7.png"></code> <!--NestJS--> 
 <code><img height="25" src="https://img.icons8.com/color/240/000000/nodejs.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288767-33891400-cd2f-11ea-81cd-b6a089ab4a24.png"></code>
-<!-- <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288313-8e6e3b80-cd2e-11ea-89d2-743fd19db946.png"></code> -->
 <!-- <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288989-84990800-cd2f-11ea-8534-fb289c80dd4e.png"></code> -->
 <!-- <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288497-d42b0400-cd2e-11ea-819f-e2fa50f5e60b.png"></code> -->
 
@@ -51,7 +50,7 @@
 <code><img height="25" src="https://img.icons8.com/color/240/000000/ubuntu.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/240/000000/amazon-web-services.png"></code>
-<!-- <code><img height="25" src="https://user-images.githubusercontent.com/31975706/111998874-c8af0780-8b5f-11eb-8e14-bad4b5d1030c.png"></code> <!--Docker-->
+<code><img height="25" src="https://user-images.githubusercontent.com/31975706/111998874-c8af0780-8b5f-11eb-8e14-bad4b5d1030c.png"></code>
 <!-- <code><img height="25" src="https://user-images.githubusercontent.com/31975706/120637402-d3641200-c4a9-11eb-83db-fd2f5f8f3353.png"></code> <!--Jenkins-->
 
 
@@ -87,7 +86,7 @@
   
 | 인사이트 | 회고 |
 |:-----:|:-----:| 
-|[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits&postId=534&description=그냥%20하지%20말라)](https://overcome-the-limits.tistory.com/534?category=921779)| [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits&postId=191&description=2021년%20하반기%20회고)](https://overcome-the-limits.tistory.com/191)
+|[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits&postId=534&description=그냥%20하지%20말라)](https://overcome-the-limits.tistory.com/534?category=921779)| [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits&postId=191&description=2022년%20상반기%20회고)](https://overcome-the-limits.tistory.com/346)
 
 
 <!-- |[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits)](https://overcome-the-limits.tistory.com/)| [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=overcome-the-limits&postId=191&description=2021년%20하반기%20회고)](https://overcome-the-limits.tistory.com/191)
