@@ -65,7 +65,7 @@
 <!-- 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800) -->
   
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdtn800)](https://solved.ac/tkdtn800/) -->
-<a href="https://opgc.me/#/users/epitone" target="_blank"><img src="https://api.opgc.me/githubs/users/epitone/tag/?theme=basic" /></a>
+<!-- <a href="https://opgc.me/#/users/epitone" target="_blank"><img src="https://api.opgc.me/githubs/users/epitone/tag/?theme=basic" /></a> -->
   
   
 <img src="https://github-readme-stats.vercel.app/api?username=epitone&show_icons=true&hide_border=true" align="center" style="width: 53%" />
